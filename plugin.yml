@@ -1,0 +1,3 @@
+name: EventPlugin
+version: 0.1
+main: edu.vccs.email.jcr2609.event.EventPlugin
